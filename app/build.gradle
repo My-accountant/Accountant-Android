@@ -41,4 +41,6 @@ dependencies {
     compile 'com.google.code.gson:gson:2.7'
     // Mockito
     testCompile "org.mockito:mockito-core:2.+"
+    // MpAndroidChart
+    compile 'com.github.PhilJay:MPAndroidChart:v2.1.6'
 }
