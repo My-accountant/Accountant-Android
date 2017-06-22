@@ -27,4 +27,18 @@ dependencies {
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha8'
     testCompile 'junit:junit:4.12'
+
+    // Butter Knife
+    compile 'com.jakewharton:butterknife:7.0.1'
+    // Android Query
+    compile 'com.googlecode.android-query:android-query:0.25.9'
+    // Firebase
+//    compile 'com.google.firebase:firebase-core:9.6.1'
+//    compile 'com.google.firebase:firebase-crash:9.6.1'
+//    compile 'com.google.firebase:firebase-messaging:9.6.1'
+//    compile 'com.google.firebase:firebase-config:9.6.1'
+    // GSON
+    compile 'com.google.code.gson:gson:2.7'
+    // Mockito
+    testCompile "org.mockito:mockito-core:2.+"
 }
